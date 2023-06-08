@@ -4,12 +4,12 @@ let date;
 
 
 
-const option = {
-    weekday: "long",
-    year: "numeric",
-    month: "long",
-    day: "numeric"
-}
+// const option = {
+//     weekday: "long",
+//     year: "numeric",
+//     month: "long",
+//     day: "numeric"
+// }
 
 setInterval(() => {
 
